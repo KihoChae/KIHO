@@ -9,6 +9,7 @@ button{
     outline: none;
     border: none;
     cursor: pointer;
+    color: lightcoral;
 }
 
 body {
