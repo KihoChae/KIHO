@@ -1,0 +1,123 @@
+[
+    {
+        "id": 1,
+        "name" : "Fantini Edizione",
+        "price" : " 179,000 원 ",
+        "image" : "./images/Edizione.jpeg",
+        "categories" : ["red", "all"]
+    },
+
+    {
+        "id": 2,
+        "name" : "Chateau Haut Gaussens",
+        "price" : " 40,000 원 ",
+        "image" : "./images/Gaussens.jpeg",
+        "categories" : ["red", "all"]
+    },
+
+    {
+        "id": 3,
+        "name" : "Solanera",
+        "price" : " 54,000 원 ",
+        "image" : "./images/Solanera.jpeg",
+        "categories" : ["red", "all"]
+    },
+
+    {
+        "id": 4,
+        "name" : "Gracianna",
+        "price" : " 150,000 원 ",
+        "image" : "./images/Gracianna.jpeg",
+        "categories" : ["red", "all"]
+    },
+
+    {
+        "id": 5,
+        "name" : "7 Colors",
+        "price" : " 36,000 원 ",
+        "image" : "./images/7color.jpeg",
+        "categories" : ["red", "all"]
+    },
+
+    {
+        "id": 6,
+        "name" : "Castel",
+        "price" : " 25,000 원 ",
+        "image" : "./images/Wcastel.jpeg",
+        "categories" : ["white", "all"]
+    },
+
+    {
+        "id": 7,
+        "name" : "Miss Molly",
+        "price" : " 80,000 원 ",
+        "image" : "./images/WMissmolly.jpeg",
+        "categories" : ["sparkling", "all"]
+    },
+
+    {
+        "id": 8,
+        "name" : "Lapostolle",
+        "price" : " 35,000 원 ",
+        "image" : "./images/Wlapostolle.jpeg",
+        "categories" : ["white", "all"]
+    },
+    
+    {
+        "id": 9,
+        "name" : "Perie",
+        "price" : " 164,000 원 ",
+        "image" : "./images/Wperie.jpeg",
+        "categories" : ["white"]
+    },
+
+    {
+        "id": 10,
+        "name" : "Bollinger",
+        "price" : " 196,000 원 ",
+        "image" : "./images/WBollinger.jpeg",
+        "categories" : ["sparkling"]
+    },
+
+    {
+        "id": 11,
+        "name" : "Mortlach",
+        "price" : " 365,000 원 ",
+        "image" : "./images/mortlach.webp",
+        "categories" : ["whisky"]
+    },
+
+    {
+        "id": 12,
+        "name" : "Ardbeg Uigeadail",
+        "price" : " 143,000 원 ",
+        "image" : "./images/Ardbeg Uigeadail .png",
+        "categories" : ["whisky"]
+    },
+
+    {
+        "id": 13,
+        "name" : "GlenDronach 18-Year-old",
+        "price" : " 313,000 원 ",
+        "image" : "./images/GlenDronach 18-Year-Old Allardice.png",
+        "categories" : ["whisky"]
+    },
+
+    {
+        "id": 14,
+        "name" : "Glenmorangie Quinta Ruban",
+        "price" : " 95,000 원 ",
+        "image" : "./images/Glenmorangie Quinta Ruban 14-Year-Old .png",
+        "categories" : ["whisky"]
+    },
+
+    {
+        "id": 15,
+        "name" : "Redbreast 12-Yaar-Old",
+        "price" : " 140,000 원 ",
+        "image" : "./images/Redbreast 12-Year-Old .png",
+        "categories" : ["whisky"]
+    }
+
+
+]
